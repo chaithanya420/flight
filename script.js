@@ -1,5 +1,5 @@
 const flights = [
-  { id: 1, from: "New York", to: "London", date: "2025-07-20", totalSeats: 10, bookedSeats: [] },
+  { id: 1, from: "VISHAL mEGA mART", to: "London", date: "2025-07-20", totalSeats: 10, bookedSeats: [] },
   { id: 2, from: "Paris", to: "Tokyo", date: "2025-07-21", totalSeats: 8, bookedSeats: [] },
 ];
 
